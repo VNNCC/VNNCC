@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi 👋
 
-<!--
-**VNNCC/VNNCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some guy doing some stuff.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+   &nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+   &nbsp;
+  <a href="https://www.w3schools.com/js/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="32" height="40"/> 
+  </a>
+   &nbsp;
+  <a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="32" height="40"/> 
+  </a>
+</p>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnncc&show_icons=true&locale=en&layout=compact" alt="vnncc" /></p>
