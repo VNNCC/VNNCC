@@ -21,4 +21,9 @@ Some guy doing some stuff.
   </a>
 </p>
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vnncc&theme=dark&show_icons=true&locale=en&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnncc&theme=dark&show_icons=true&locale=en&layout=compact" alt="vnncc" height="150"/> 
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnncc&theme=dark&show_icons=true&locale=en&layout=compact" alt="vnncc" /></p>
