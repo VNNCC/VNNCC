@@ -2,25 +2,17 @@
 
 Some guy doing some stuff.
 
-<br/>
+The majority of my projects are either self-hosted or maintained in private repositories.
 
-### My favorite languages:
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/js/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="32" height="40"/> 
-  </a>
-  <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="32" height="40"/> 
-  </a>
-</p>
+---
+<div align="center">
+  <h3>I ❤️ working with</h3>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,cpp,tailwind,sass,css,md,html,threejs,react,nextjs,vite,git,docker,grafana,rabbitmq,cloudflare,postgres,dotnet,bash,ansible,vscode,visualstudio,linux,macos" />
+</div>
 
-<p float="left">
+---
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vnncc&theme=dark&show_icons=true&locale=en&layout=compact" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnncc&theme=dark&show_icons=true&locale=en&layout=compact" alt="vnncc" height="150"/> 
-</p>
+</div>
