@@ -2,7 +2,7 @@
 
 Some guy doing some stuff.
 
-The majority of my projects are either self-hosted or maintained in private repositories.
+The majority of my projects are either self-hosted, maintained in private repositories or can be found [here](https://github.com/snowberry-software).
 
 ---
 <div align="center">
