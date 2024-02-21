@@ -7,7 +7,7 @@ The majority of my projects are either self-hosted, maintained in private reposi
 ---
 <div align="center">
   <h3>I ❤️ working with</h3>
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,cpp,tailwind,sass,css,md,html,threejs,react,nextjs,vite,git,docker,grafana,rabbitmq,sentry,cloudflare,postgres,dotnet,bash,ansible,vscode,visualstudio,linux,macos" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,cpp,tailwind,sass,css,md,html,threejs,react,nextjs,vite,git,docker,grafana,rabbitmq,sentry,notion,github,cloudflare,postgres,dotnet,bash,ansible,vscode,visualstudio,debian,linux,apple" />
 </div>
 
 ---
